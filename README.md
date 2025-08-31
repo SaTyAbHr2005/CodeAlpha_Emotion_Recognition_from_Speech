@@ -54,8 +54,8 @@ The script prints:
 
 2. Install dependencies:
    ```bash
-   pip install numpy torch librosa scikit-learn
-
+   pip install -r requirements.txt
+   
 3. Download and place the TESS dataset in the project folder. Update the DATA_DIR path inside the script.
 
 4. Run training and evaluation:
